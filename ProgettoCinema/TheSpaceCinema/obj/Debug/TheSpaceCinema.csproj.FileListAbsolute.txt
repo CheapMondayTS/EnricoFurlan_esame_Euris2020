@@ -1,2 +1,6 @@
 \\Mac\Home\Documents\GitHub\EnricoFurlan_esame_Euris2020\ProgettoCinema\TheSpaceCinema\obj\Debug\TheSpaceCinema.csprojAssemblyReference.cache
 \\Mac\Home\Documents\GitHub\EnricoFurlan_esame_Euris2020\ProgettoCinema\TheSpaceCinema\obj\Debug\TheSpaceCinema.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\EnricoFurlan_esame_Euris2020\ProgettoCinema\TheSpaceCinema\bin\Debug\TheSpaceCinema.dll
+\\Mac\Home\Documents\GitHub\EnricoFurlan_esame_Euris2020\ProgettoCinema\TheSpaceCinema\bin\Debug\TheSpaceCinema.pdb
+\\Mac\Home\Documents\GitHub\EnricoFurlan_esame_Euris2020\ProgettoCinema\TheSpaceCinema\obj\Debug\TheSpaceCinema.dll
+\\Mac\Home\Documents\GitHub\EnricoFurlan_esame_Euris2020\ProgettoCinema\TheSpaceCinema\obj\Debug\TheSpaceCinema.pdb
