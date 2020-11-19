@@ -1,0 +1,2 @@
+\\Mac\Home\Documents\GitHub\EnricoFurlan_esame_Euris2020\ProgettoCinema\TheSpaceCinema\obj\Debug\TheSpaceCinema.csprojAssemblyReference.cache
+\\Mac\Home\Documents\GitHub\EnricoFurlan_esame_Euris2020\ProgettoCinema\TheSpaceCinema\obj\Debug\TheSpaceCinema.csproj.CoreCompileInputs.cache
